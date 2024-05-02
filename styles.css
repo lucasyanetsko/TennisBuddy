@@ -1,0 +1,105 @@
+/* Reset default margin and padding */
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Header styles */
+.header {
+  background-color: #0e3768;
+  padding: 10px 20px;
+  text-align: center;
+  color: white;
+}
+
+.header .buttons button,
+.login-btn,
+.register-btn {
+  padding: 8px 16px;
+  margin-left: 8px;
+  background-color: #ffffff;
+  color: #0e3768;
+  border: 2px solid #ffffff;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.header .buttons button:hover,
+.login-btn:hover,
+.register-btn:hover {
+  background-color: #f0f0f0;
+}
+
+/* Hero section styles */
+.hero {
+  background-color: #caffbf;
+  color: #000000;
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.hero h1 {
+  color: #0e3768;
+  font-size: 98px;
+  margin: 0;
+}
+
+.hero p {
+  color: #0e3768;
+  font-size: 18px;
+}
+
+h2 {
+  color: #0e3768;
+  font-size: 18px;
+  text-align:center;
+}
+
+li {
+  list-style-type: none;
+  color: #0e3768;
+  font-size: 18px;
+  text-align: center;
+}
+
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  border: 5px solid #0e3768; 
+    padding: 8px; 
+}
+table td {
+  border: 5px solid #0e3768;
+  padding: 8px;
+}
+
+table th {
+  border: 5px solid #0e3768;
+  padding: 8px;
+}
+
+ button {
+  padding: 8px 16px;
+  margin-left: 8px;
+  background-color: #ffffff;
+  color: #0e3768;
+  border: 2px solid #0e3768;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+form {
+ 
+  padding: 8px 16px;
+  margin-left: 8px;
+  background-color: #ffffff;
+  color: #0e3768;
+  border: 2px solid #0e3768;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+

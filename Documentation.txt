@@ -1,0 +1,14 @@
+Tennis Buddy is a tennis court reservation platform that allows a user to reserve tennis 
+courts in their local area ahead of time so they don't have to worry about showing up to the court
+and not being able to play tennis.
+
+Features:
+User Account Creation
+User Login with existing credentials
+Reservation of a court based on date and time
+Ability to view assigned reservations
+
+Roadmap/Features to add:
+Ability to reserve a court within a time window that starts and expires
+A forum for Tennis players to connect and schedule time to play against each other
+Outbound email confirmation that sends you an email that has your court reservation, date, and time.
